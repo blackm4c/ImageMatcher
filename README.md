@@ -1,4 +1,4 @@
-# Python Image
+# Python Image Matcher
 
 A Python program to find exact matches of submit images using image similarity algorithms.
 
