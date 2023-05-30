@@ -21,12 +21,13 @@ This project provides a Python program that compares a submitted image with a li
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git ```
+   https://github.com/nelsondurairaj/ImageMatcher.git
+    ```
 
 2. Change to the project directory:
 
     ```bash 
-    cd project-name
+    cd ImageMatcher
     ```
 3. Install the required dependencies:
 
