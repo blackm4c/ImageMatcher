@@ -35,7 +35,8 @@ This project provides a Python program that compares a submitted image with a li
     pip install -r requirements.txt
     ```
 ## Usage
-1. Place your image files in the project directory or specify their paths.
+1. Ensure that all images are in the same dimensions before running the program.
+2. Place your image files in the project directory or specify their paths.
 
 ### Exact Match
 To find an exact match of a submit images:
